@@ -1,9 +1,9 @@
 @font-face {
   font-family: "OpenSans-Regular";
   src: 
-    url("/MQ-Diploma/fonts/OpenSans-Regular.woff2"),
+    url("/MQ-Diploma2/fonts/OpenSans-Regular.woff2"),
     url("https://netology-code.github.io/html-2-diploma/sources/fonts/OpenSans-Regular.woff"),
-    url("/MQ-Diploma/fonts/OpenSans-Regular.ttf");
+    url("/MQ-Diploma2/fonts/OpenSans-Regular.ttf");
   font-weight: 400;
   font-style: normal;
 }
@@ -11,9 +11,9 @@
 @font-face {
   font-family: "OpenSans-Bold";
   src: 
-    url("/MQ-Diploma/fonts/OpenSans-Bold.woff2"),
+    url("/MQ-Diploma2/fonts/OpenSans-Bold.woff2"),
     url("https://netology-code.github.io/html-2-diploma/sources/fonts/OpenSans-Bold.woff"),
-    url("/MQ-Diploma/fonts/OpenSans-Bold.ttf");
+    url("/MQ-Diploma2/fonts/OpenSans-Bold.ttf");
   font-weight: 700;
   font-style: normal;
 }
@@ -74,7 +74,7 @@ ul {
   padding: 29px 0 146px;
   position: relative;
   color: #ffffff;
-  background-image: url("/MQ-Diploma/images/banner-bg.jpg");
+  background-image: url("/MQ-Diploma2/images/banner-bg.jpg");
   background-color: #000000;
   background-repeat: no-repeat;
   background-size: cover;
@@ -158,7 +158,7 @@ ul {
     margin-bottom: 50px;
     padding: 50px 0px 120px;
     color: #ffffff;
-    background-image: url("/MQ-Diploma/images/banner-bg-tablet.jpg");
+    background-image: url("/MQ-Diploma2/images/banner-bg-tablet.jpg");
   }
 
   .header-img::before {
@@ -238,7 +238,7 @@ ul {
     min-width: 320px;
     margin-bottom: 44px;
     padding: 32px 0px 216px;
-    background-image: url("/MQ-Diploma/images/banner-mobile.jpg");
+    background-image: url("/MQ-Diploma2/images/banner-mobile.jpg");
   }
 
   .header-container {
@@ -376,19 +376,19 @@ ul {
 }
 
 .trend-item-garden {
-  background-image: url("/MQ-Diploma/images/trend1.jpg");
+  background-image: url("/MQ-Diploma2/images/trend1.jpg");
 }
 
 .trend-item-cheese {
-  background-image: url("/MQ-Diploma/images/trend2.jpg");
+  background-image: url("/MQ-Diploma2/images/trend2.jpg");
 }
 
 .trend-item-mountains {
-  background-image: url("/MQ-Diploma/images/trend3.jpg");
+  background-image: url("/MQ-Diploma2/images/trend3.jpg");
 }
 
 .trend-item-lime {
-  background-image: url("/MQ-Diploma/images/trend4.jpg");
+  background-image: url("/MQ-Diploma2/images/trend4.jpg");
 }
 
 .trend-item-text {
@@ -962,7 +962,7 @@ ul {
 .search-button {
   width: 48px;
   height: 48px;
-  background-image: url("/MQ-Diploma/svg/search.svg");
+  background-image: url("/MQ-Diploma2/svg/search.svg");
   background-size: 20px 20px;
   background-repeat: no-repeat;
   background-position: center center;
@@ -1115,15 +1115,15 @@ ul {
 }
 
 .footer-dribbble {
-  background-image: url("/MQ-Diploma/svg/001-dribbble.svg");
+  background-image: url("/MQ-Diploma2/svg/001-dribbble.svg");
 }
 
 .footer-pinterest {
-  background-image: url("/MQ-Diploma/svg/001-pinterest.svg");
+  background-image: url("/MQ-Diploma2/svg/001-pinterest.svg");
 }
 
 .footer-tumblr {
-  background-image: url("/MQ-Diploma/svg/003-tumblr.svg");
+  background-image: url("/MQ-Diploma2/svg/003-tumblr.svg");
 }
 
 .footer-copyright {
@@ -1181,7 +1181,7 @@ ul {
   top: -25px;
   width: 20px;
   height: 20px;
-  background: url("/MQ-Diploma/svg/form-x.svg")
+  background: url("/MQ-Diploma2/svg/form-x.svg")
     center center / cover no-repeat;
   border: none;
 }
@@ -1216,7 +1216,7 @@ ul {
   height: 48px;
   border: none;
   background-color: #f4f7f6;
-  background-image: url("/MQ-Diploma/svg/form-arrows.svg");
+  background-image: url("/MQ-Diploma2/svg/form-arrows.svg");
   background-repeat: no-repeat;
   background-size: 8px;
   background-position: right 12px center;
@@ -1236,7 +1236,7 @@ ul {
   vertical-align: middle;
   width: 16px;
   height: 16px;
-  background: url("/MQ-Diploma/svg/form-empty-circle.svg")
+  background: url("/MQ-Diploma2/svg/form-empty-circle.svg")
     center center / cover no-repeat;
 }
 
@@ -1248,7 +1248,7 @@ ul {
 }
 
 .popup-radio-input:checked ~ .popup-radio-text::before {
-  background: url("/MQ-Diploma/svg/form-circle.svg")
+  background: url("/MQ-Diploma2/svg/form-circle.svg")
     center center / cover no-repeat;
 }
 
