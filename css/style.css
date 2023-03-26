@@ -74,7 +74,7 @@ ul {
   padding: 29px 0 146px;
   position: relative;
   color: #ffffff;
-  background-image: url("/MQ-Diploma2/images/banner-bg.jpg");
+  background-image: url(".../images/banner-bg.jpg");
   background-color: #000000;
   background-repeat: no-repeat;
   background-size: cover;
@@ -158,7 +158,7 @@ ul {
     margin-bottom: 50px;
     padding: 50px 0px 120px;
     color: #ffffff;
-    background-image: url("/MQ-Diploma2/images/banner-bg-tablet.jpg");
+    background-image: url("/MQ-Diploma3/images/banner-bg-tablet.jpg");
   }
 
   .header-img::before {
