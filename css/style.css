@@ -1,9 +1,9 @@
 @font-face {
   font-family: "OpenSans-Regular";
   src: 
-    url("/MQ-Diploma2/fonts/OpenSans-Regular.woff2"),
+    url("/MQ-Diploma3/fonts/OpenSans-Regular.woff2"),
     url("https://netology-code.github.io/html-2-diploma/sources/fonts/OpenSans-Regular.woff"),
-    url("/MQ-Diploma2/fonts/OpenSans-Regular.ttf");
+    url("/MQ-Diploma3/fonts/OpenSans-Regular.ttf");
   font-weight: 400;
   font-style: normal;
 }
@@ -11,9 +11,9 @@
 @font-face {
   font-family: "OpenSans-Bold";
   src: 
-    url("/MQ-Diploma2/fonts/OpenSans-Bold.woff2"),
+    url("/MQ-Diploma3/fonts/OpenSans-Bold.woff2"),
     url("https://netology-code.github.io/html-2-diploma/sources/fonts/OpenSans-Bold.woff"),
-    url("/MQ-Diploma2/fonts/OpenSans-Bold.ttf");
+    url("/MQ-Diploma3/fonts/OpenSans-Bold.ttf");
   font-weight: 700;
   font-style: normal;
 }
