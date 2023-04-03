@@ -845,7 +845,7 @@ ul {
 /*--БЛОК СПРАВА--*/
 
 .sidebar {
-  width: 24%;
+  width: 270px;
 }
 
 .sidebar-block:nth-child(n + 2) {
@@ -1049,7 +1049,7 @@ ul {
 
 @media (min-width: 641px) and (max-width: 1200px) {
   .sidebar {
-    width: 30%;
+    width: 270px;
   }
   .tags-list-item {
     display: block;
