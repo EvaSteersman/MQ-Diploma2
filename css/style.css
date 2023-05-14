@@ -2,6 +2,7 @@
   font-family: "OpenSans-Regular";
   src: 
     url("/MQ-Diploma3/fonts/OpenSans-Regular.woff2"),
+    url("/MQ-Diploma3/fonts/OpenSans-Regular.woff"),
     url("https://netology-code.github.io/html-2-diploma/sources/fonts/OpenSans-Regular.woff"),
     url("/MQ-Diploma3/fonts/OpenSans-Regular.ttf");
   font-weight: 400;
@@ -12,6 +13,7 @@
   font-family: "OpenSans-Bold";
   src: 
     url("/MQ-Diploma3/fonts/OpenSans-Bold.woff2"),
+    url("/MQ-Diploma3/fonts/OpenSans-Bold.woff"),
     url("https://netology-code.github.io/html-2-diploma/sources/fonts/OpenSans-Bold.woff"),
     url("/MQ-Diploma3/fonts/OpenSans-Bold.ttf");
   font-weight: 700;
@@ -144,6 +146,7 @@ ul {
   font-size: 45px;
   font-weight: 700;
   text-transform: uppercase;
+  font-family: "OpenSans-Bold";
   line-height: 1.67;
 }
 
@@ -325,6 +328,7 @@ ul {
 }
 
 .main-title {
+  font-family: "OpenSans-Bold";
   margin-top: 0;
   margin-bottom: 25px;
   font-size: 20px;
@@ -436,6 +440,7 @@ ul {
 }
 
 .article-tag {
+  font-family: "OpenSans-Bold";
   display: inline-block;
   margin-left: 0;
   margin-right: 20px;
@@ -459,6 +464,7 @@ ul {
 }
 
 .article-title {
+  font-family: "OpenSans-Bold";
   margin-top: 15px;
   margin-bottom: 0;
   font-size: 20px;
@@ -547,6 +553,7 @@ ul {
 }
 
 .product-description-title {
+  font-family: "OpenSans-Bold";
   margin-top: 0;
   margin-bottom: 0;
   font-size: 20px;
@@ -665,7 +672,7 @@ ul {
   }
   .main-articles {
     float: right;
-    width: 100%;
+    width: 58%;
     margin-right: 5%;
   }
   .main-article {
@@ -853,6 +860,7 @@ ul {
 }
 
 .sidebar-title {
+  font-family: "OpenSans-Bold";
   margin-top: 0;
   margin-bottom: 25px;
   font-size: 14px;
@@ -894,6 +902,7 @@ ul {
 }
 
 .sidebar-post-title {
+  font-family: "OpenSans-Bold";
   margin-top: 2px;
   margin-bottom: 0;
   font-size: 14px;
